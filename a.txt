@@ -1,1 +1,2 @@
 file
+"Another line of text" 
